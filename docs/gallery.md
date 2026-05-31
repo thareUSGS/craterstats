@@ -255,8 +255,8 @@ Demo 18
 -sf 2
 ```
 
-![19-demo](https://ggmichael.github.io/craterstats/demo/19-demo_k.png)
 ![19-demo](https://ggmichael.github.io/craterstats/demo/19-demo_err.png)
+![19-demo](https://ggmichael.github.io/craterstats/demo/19-demo_k.png)
 ![19-demo](https://ggmichael.github.io/craterstats/demo/19-demo_age.png)
 
 Demo 19
